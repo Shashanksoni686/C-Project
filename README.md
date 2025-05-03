@@ -1,4 +1,4 @@
-# C++-project
+# C++ Project
 Java learning project using loops.
 <br>
 Author - Shashank Soni
