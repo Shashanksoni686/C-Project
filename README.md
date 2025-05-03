@@ -1,2 +1,3 @@
 # Java-project
-Java learning project using loops
+Java learning project using loops.
+Author - Shashank Soni
