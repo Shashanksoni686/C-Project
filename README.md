@@ -1,5 +1,5 @@
 # C++ Project
-Java learning project using loops.
+C++ learning project using loops.
 <br>
 Author - Shashank Soni
 <br>
